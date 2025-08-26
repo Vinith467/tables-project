@@ -1,0 +1,36 @@
+.container{
+    background-color: goldenrod;
+    display: block;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color:darkred;
+    border: 4px solid black;
+    h2{
+        border:2px solid black;
+        background-color:darkseagreen;
+        box-shadow: 2px 4px 3px 2px ;
+        padding: 3px;
+    }
+    #number{
+        background-color:darkseagreen;
+        color: darkred;
+        padding: 10px;
+
+    }
+    button{
+        background-color:rgb(82, 203, 163);
+        color:rgb(21, 3, 3);
+        padding: 3px;
+        border-radius: 10px;
+        box-shadow:1px 1px 4px 1px ;
+    }    
+}
+hr{
+    background-color: black;
+    height: 3px;
+}
+p{
+    background-color: beige;
+}
